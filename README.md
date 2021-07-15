@@ -3,11 +3,11 @@
 ----
 #### Table of contents
 
-1. [Background](#Background)
-2. [Analysis](#Analysis)
-3. [Discussion](#Discussion)
-4. [References](#References)
-5. [Resources](#Resources)
+1. [Background](#1-background)
+2. [Analysis](#2-analysis)
+3. [Discussion](#3-discussion)
+4. [References](#4-references)
+5. [Resources](#5-resources)
 
 
 ----
@@ -54,7 +54,7 @@ In this plot, I assessed the performance of REVEL with area under the receiver o
 
 ----
 #### 4. References
-- Kalia, Sarah S  et al. "Recommendations for reporting of secondary findings in clinical exome and genome sequencing, 2016 update (ACMG SF v2.0): a policy statement of the American College of Medical Genetics and Genomics." Genet Med. 2017 Feb;19(2):249-255. doi: 10.1038/gim.2016.190.
+- Kalia, Sarah S  et al. "Recommendations for reporting of secondary findings in clinical exome and genome sequencing, 2016 update (ACMG SF v2.0): a policy statement of the American College of Medical Genetics and Genomics." Genet Med. 2017 Feb;19(2):249-255. doi: 10.1038/gim.2016.190
 - Ioannidis, Nilah M et al. “REVEL: An Ensemble Method for Predicting the Pathogenicity of Rare Missense Variants.” American journal of human genetics vol. 99,4 (2016): 877-885. doi:10.1016/j.ajhg.2016.08.016
 - Landrum, Melissa J et al. “ClinVar: public archive of relationships among sequence variation and human phenotype.” Nucleic acids research vol. 42,Database issue (2014): D980-5. doi:10.1093/nar/gkt1113
 - Riggs, E R et al. “Towards an evidence-based process for the clinical interpretation of copy number variation.” Clinical genetics vol. 81,5 (2012): 403-12. doi:10.1111/j.1399-0004.2011.01818.x
